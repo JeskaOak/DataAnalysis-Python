@@ -1,6 +1,6 @@
 # Dio Desafio Python
 
-Análise de Dados com Python e Pandas utilizando a planilha "AdventureWorks.xlsx"
+Análise de Dados com Python usando Pandas utilizando a planilha "AdventureWorks.xlsx"
 
 Bibliotecas utilizadas:
 - Pandas
