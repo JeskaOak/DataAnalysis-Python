@@ -1,6 +1,6 @@
-# Dio Desafio Python
+# Análise de dados usando Python
 
-Análise de Dados com Python usando Pandas utilizando a planilha "AdventureWorks.xlsx"
+## Primeira análise: AdventureWorks.xlsx
 
 Bibliotecas utilizadas:
 - Pandas
@@ -13,3 +13,6 @@ Tópicos do Projeto:
 - Conhecendo o Dataset: Contém informações básicas do data set, como a quantidade de linhas/colunas, tipos de dados das colunas e etc.
 - Editando o Dataset: Alteração de tipo de dados, criação de colunas, ordenação de colunas.
 - Análise exploratória: Possui subtópicos, mas de modo geral, traz análise de indicadores do dataset, como por exemplo lucros, custos, ticket médio e etc.
+
+## Segunda análise: Empresa de prestação de serviços
+ - Ler o readme no diretório "Empresa de prestação de servicos"
